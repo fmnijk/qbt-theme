@@ -615,6 +615,8 @@ QCheckBox::indicator:checked,
 QMenu::indicator:checked,
 QTreeView::indicator:checked,
 QGroupBox::indicator:checked {
+  max-width:100%;
+  max-height:100%;
   image: url(:/uitheme/controls/checkbox_check_dark.svg); }
 
 QCheckBox::indicator:disabled,
@@ -626,6 +628,8 @@ QGroupBox::indicator:disabled {
 QCheckBox::indicator:checked:disabled,
 QTreeView::indicator:checked:disabled,
 QGroupBox::indicator:checked:disabled {
+  max-width:100%;
+  max-height:100%;
   border: 1px solid transparent;
   image: url(:/uitheme/controls/checkbox_check_disabled.svg); }
 
