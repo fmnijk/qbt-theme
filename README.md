@@ -1,11 +1,7 @@
-# How to use
+# qBittorrent深色主題
+下載release的UI佈景主題檔案，在qBittorrent的設定中套用即可。
 
-1. Download the `.qbtheme` file of your taste. We recommend you download it in a **qBittorrent Themes** folder, but it is not mandatory.
-2. Open **qBittorrent**, then go to *Tools -> Options* and click on the box next to *Use custom UI Theme*.
-3. Right below that, browse to the path where you previously downloaded the `.qbtheme` file. Click **Apply** and then **OK**.
-4. Restart **qBittorrent**. (Close it and then open it again).
-
-# Screenshots
+# Screenshots螢幕截圖
 ![darkmode20231015.qbtheme](screenshots2/20231015.png)
 
 This repo contains different stylesheed edited to run with qbittorrent's style system  
@@ -13,6 +9,12 @@ DarkStyleSheet theme is based on https://github.com/ColinDuquesnoy/QDarkStyleShe
 Mumble themes are based on https://github.com/mumble-voip/mumble-theme  
 Breeze themes are based on https://github.com/Alexhuszagh/BreezeStyleSheets  
 Icons used in dark themes are from nowshed-imran. They are meant to be icons for next qbittorrent major release (https://github.com/qbittorrent/qBittorrent/pull/12965). Do give your opinions on the thread :)
+
+# How to use
+1. Download the `.qbtheme` file of your taste. We recommend you download it in a **qBittorrent Themes** folder, but it is not mandatory.
+2. Open **qBittorrent**, then go to *Tools -> Options* and click on the box next to *Use custom UI Theme*.
+3. Right below that, browse to the path where you previously downloaded the `.qbtheme` file. Click **Apply** and then **OK**.
+4. Restart **qBittorrent**. (Close it and then open it again).
 
 ## How to create your own theme file?
 This repo also contains different tool to create your own qbittorrent theme files.
